@@ -1,0 +1,32 @@
+.bg-dark {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-dark {
+    background-color: #75767B;
+    background-image: url(cst-block.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+form {
+    background-image: url(car_image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 40% 100%;
+    /* background-position: center; */
+
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+#canvas {
+    border: 2px solid black;
+}
